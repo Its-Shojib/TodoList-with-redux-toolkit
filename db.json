@@ -1,24 +1,19 @@
 {
   "tasks": [
     {
-      "value": "Hello RTK Query",
-      "completed": false,
-      "id": 1
-    },
-    {
-      "value": "Hi I am here",
-      "completed": false,
-      "id": 2
-    },
-    {
-      "value": "Nice to meet you",
-      "completed": false,
-      "id": 3
-    },
-    {
       "value": "Thanks ",
-      "completed": false,
+      "completed": true,
       "id": 4
+    },
+    {
+      "value": "Hello Task Manager",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "value": "Hi Uncle",
+      "completed": true,
+      "id": 6
     }
   ]
 }
