@@ -1,3 +1,24 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "value": "Hello RTK Query",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "Hi I am here",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "value": "Nice to meet you",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "value": "Thanks ",
+      "completed": false,
+      "id": 4
+    }
+  ]
 }
